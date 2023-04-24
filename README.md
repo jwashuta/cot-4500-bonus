@@ -11,7 +11,9 @@
 -Python
 
 ## Description
-Used Euler Method and Runge-Kutta Method for the function t-y^2. Use the Gaussian elimination and backward substitution solve a linear system. Implement LU Factorization for the matrix. We had to also determine if a matrix is diagonally dominate. We had to prove if another matrix was positive definite.
+Found the amount of iterations it takes gauss-seidel to converge a certain matrix. Found the amount of iterations it takes jacobi to converge a certain matrix. Found the amount of iterations it takes newton-raphson to solve a certain function X^3-X^2+2=0. Used the divided difference method to print out the hermite polynomial approximation matrix. Found the value of the modeified eulers method.
+
+
 
 ## Setup/Installation
 ##### Imports
@@ -23,4 +25,4 @@ Used Euler Method and Runge-Kutta Method for the function t-y^2. Use the Gaussia
 -Install NumPy. This can be done by typing "pip install numpy" into the terminal.
 
 -Into the command line type
-"python bonus.py", then hit ENTER to run.
+"python bonus_assignment.py", then hit ENTER to run.
